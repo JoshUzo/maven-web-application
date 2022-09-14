@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
+	Landmark Technologies is a software development company and is amazing for people with no IT background. 
 	Class29 will run from October 9, 2022.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
